@@ -4,6 +4,6 @@
 
 - [x] Mean-Variance-Standard Deviation Calculator
 - [x] Demographic Data Analyzer
-- [x] Medical Data Visualizer
+- [ ] Medical Data Visualizer
 - [ ] Page View Time Series Visualizer
-- [ ] Sea Level Predictor
+- [x] Sea Level Predictor

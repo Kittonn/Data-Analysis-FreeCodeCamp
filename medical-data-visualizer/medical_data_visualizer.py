@@ -28,7 +28,7 @@ def draw_cat_plot():
     # Do not modify the next two lines
     fig.savefig('catplot.png')
     return fig
-
+    
 
 # Draw Heat Map
 def draw_heat_map():
